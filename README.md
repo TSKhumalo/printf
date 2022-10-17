@@ -1,1 +1,1 @@
-Handle the following custom conversion specifiers:
+Team project "printf"
