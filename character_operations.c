@@ -12,7 +12,11 @@ int print_c(va_list ar_list)
 	return (_putchar(c));
 }
 
-
+/**
+ * print_s - count characters (%s)
+ * @ar_list: store the a list of characters
+ * Return: num of characters
+ */
 int print_s(va_list ar_list)
 {
 	int i, count = 0;
